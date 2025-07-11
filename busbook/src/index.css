@@ -1,0 +1,84 @@
+.login-page {
+  background-image: url("./assets/login.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+}
+.register-page {
+  background-image: url("./assets/logo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 110vh;
+  position: absolute;
+  top: 0%;
+  bottom: 0%;
+  left: 0%;
+  right: 0%;
+}
+
+.home-page{
+  background-image: url("./assets/img9.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  right: 0%;
+}
+
+.busrootdiv-img {
+  background-image: url("./assets/wal2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+}
+
+.admin{
+   background-image: url("./assets/img001.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  position: absolute;
+  top: 0;
+  
+  left: 0;
+  right: 0;
+}
+
+
+
+@media screen and (max-width:320px) {
+  .busrootdiv{
+    width: 250px;
+    margin-left: 25px;  
+  }
+} 
+
+
+@media screen and (min-width:375px) {
+  .busrootdiv{
+    width: 300px;
+    margin-left: 25px;  
+  }
+} 
+  
+@media screen and (min-width:425px) {
+  .busrootdiv{
+    width: 350px;
+    margin-left: 25px;  
+  }
+} 
+@media screen and (min-width:768px) {
+  .busrootdiv{
+    width: auto;
+ 
+  }
+} 
+  
+  

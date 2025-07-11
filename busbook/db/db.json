@@ -1,0 +1,63 @@
+{
+  "profile": [
+    {
+      "id": "23Cy048",
+      "username": "Sriram A",
+      "password": "Sri@123",
+      "Year": "3",
+      "department": "BE.CSE",
+      "age": "19",
+      "mobile": "9345987661",
+      "email": "sriramsr2404@gmail.com",
+      "verified": true
+    },
+    {
+      "id": "23Cy048",
+      "username": "Sriram",
+      "password": "Sri@123",
+      "Year": "3",
+      "department": "BE.CSE",
+      "age": "19",
+      "mobile": "9345987661",
+      "email": "sriramsr2404@gmail.com"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "e954",
+      "userId": "23Cy048",
+      "routeFrom": "Dindigul",
+      "routeTo": "College",
+      "distance": "35 km",
+      "fare": "₹40",
+      "timestamp": "2025-07-11T06:58:57.153Z"
+    },
+    {
+      "id": "6e23",
+      "userId": "5c35",
+      "routeFrom": "Vathalakundu",
+      "routeTo": "College",
+      "distance": "28 km",
+      "fare": "₹35",
+      "timestamp": "2025-07-11T13:41:45.729Z"
+    },
+    {
+      "id": "af89",
+      "userId": "23Cy048",
+      "routeFrom": "Odapatty",
+      "routeTo": "College",
+      "distance": "33 km",
+      "fare": "₹42",
+      "timestamp": "2025-07-11T13:45:46.003Z"
+    },
+    {
+      "id": "f90b",
+      "userId": "23Cy048",
+      "routeFrom": "Dindigul",
+      "routeTo": "College",
+      "distance": "35 km",
+      "fare": "₹40",
+      "timestamp": "2025-07-11T13:48:35.654Z"
+    }
+  ]
+}
